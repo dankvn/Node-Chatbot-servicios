@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "whatbot-udpf",
+  "private_key_id": "a244be9ff27d55d8c35557b136d6ab8ce09c6004",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC0DX0+LknSlO5/\nMrlttX++e4dYcoKXhOsOePLr11aISn3ND1jyTOmhVBd/+QuTAV91Uf5BtQk3b9hW\nV+8GooMSMPDOslcsT89GDx2BWUwsjKkci4lk2GwuPKiAXcpRmtxMmauyRmIlRU7c\nFILDaBUngkzaONz23qCLUsSejSNuZcPaH8Z/kmvLU5hIl92muOvIYaeiwf6vNyC5\nfuJ9nbtDBBZGTf6ChWjMDQGMBSkLKOk+7xVzREbWj989YPuejbmPgiue0oVm4qG6\n+Wf+yj1oAqSL6pOK5oHgtSTJvkUkchNSbmOIDuRp4rJGbMoouyZHf0JLkdroDaIh\nqM+5nEpbAgMBAAECggEAIM8McVYx8YNd6iOuEkWuX2FXClDjZwS7aEm1yi/U/sTE\nI6eWR6CoOdN+7LzO1Ry87j3gnMyGP2nL+//N+GGIjLoKRz/MDrEETfnXIIjLDpsa\n/a6XfJ7LJ6m58pokkbYsSnD+DmAw5iW49vVt1nmS0T43DtSpvvpWOsz8Mv/44tas\n9epCX2TtwWBXP40G+DSB/ADruoU1IuJVkTaDKdUZFukXZLRJCCZYUtZ8cKQ2lrOU\n+TIZ9iuzO14Ih98FbNNl0BqU8BNYRttsQDt7UFhnbLAXRmge8BclVT6MB2tKV8lc\nnscuagVHfVuDJhfAENg/r9UpRGEacYO6cNI0hUYtAQKBgQD+kPztKcAUklw+8YLX\nRM6k1r/LylKFa2h7PRxrBgpUiWor4La5suZsG1CGhu5w20SZf6TZI6kQplwY2xXw\nvZjPoXNISSngEB27l58B/MWVmZXq9Y0+EeoOLHhhnzzEgX9+AVkyOVr3lq30hwPM\nAdEeJzQz7+xzV5W06AkJ5Y9cGwKBgQC1ERLkyj0+WWB2Xjx1L2DGyGk6ZPS7rLAn\nRlygtFKOYhd8medn315+naPX8kDLlt8LhKiIiO+ZrPskBcfoBooZ6p6qK2wDvi/5\nZVd+Jkuo2tNdp7LWpaiwUcIzlQTqgw5FZZSsi0pLWSpa2JnHpYOYOTpE0VO2T3fM\nix0Qe6EuwQKBgQCWiGIoVEHzaEEIL4Rxi4yuyRaNicyWfNdB2PdPCjldmAyiebVT\nxkifsN9DTdL+BYthQavXg1DcOaPIRvWIcHVGgnBLVIhgqOcMITKz2Cd2uWV/lUi6\nZZmEXCOrhqBGi1U6y81U97mlIwMm0BgcsQ5ZyFEETWIDKs2qNnPx2D+X9QKBgHLX\njHM+bo/AInWRGal9zlTmQg++fpcWVXfjodZv6LjUMG9gMixouUd3drb9uOkoHPny\nPu6yY73FwFg9rmhU1XzQmaf2+IB7PXRiOZcSdQR5HnyVY9HOqmqCwLj0uHSBgSi0\n4BJ8GjgmKr4KCadeLFP9YB7L4duNFb/PMDUHJNlBAoGBAK6HIWvABE99c8oztVAh\n8ypAw5zrWJNQGitWq/wFAuqDjlKiAdDoKfk4CMBPWTLkkSDwWjgTBOfOBsreDvn4\nHsi2xwhSmUzZYqOLS+hi28QCVZOdshCHrbQoGak6r6pSEcE8+7/nDr5Id3UYaN1T\nfWKWllKFdutyL3OlFJCnD/6I\n-----END PRIVATE KEY-----\n",
+  "client_email": "whatbot@whatbot-udpf.iam.gserviceaccount.com",
+  "client_id": "111858329906294941248",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/whatbot%40whatbot-udpf.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
