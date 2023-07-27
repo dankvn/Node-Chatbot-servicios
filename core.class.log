@@ -1,0 +1,42 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '593995409172@s.whatsapp.net',
+    fromMe: false,
+    id: '0877CC7805213EE21CDBD654A50EFD84',
+    participant: undefined
+  },
+  messageTimestamp: 1690472715,
+  pushName: 'Devmaster',
+  broadcast: false,
+  message: Message {
+    conversation: 'gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Devmaster',
+  body: 'gracias',
+  from: '593995409172'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593995409172@s.whatsapp.net',
+    fromMe: false,
+    id: '57C8373595D91AC405E096211C909D7D',
+    participant: undefined
+  },
+  messageTimestamp: 1690472720,
+  pushName: 'Devmaster',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Devmaster',
+  body: 'hola',
+  from: '593995409172'
+}
