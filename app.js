@@ -56,14 +56,12 @@ const flujoPrincipal = addKeyword(["hola", "ole", "buenas"])
 
 const flujoSegundario = addKeyword("gracias").addAnswer("De nada!");
 
-const flujoImagen = addKeyword('imagen'). addAnswer ('Te estoy enviando un imagen',{
-  media:'https://i.imgur.com/0HpzsEm.png'
-})
+
 
 const main = async () => {
   const adapterDB = new MockAdapter();
   const adapterProvider = createProvider(BaileysProvider);
-  const adapterFlow = createFlow([flujoPrincipal, flujoSegundario, FlujoPedido, flujoImagen]);
+  const adapterFlow = createFlow([flujoPrincipal, flujoSegundario, FlujoPedido]);
 
   createBot({
     flow: adapterFlow,
