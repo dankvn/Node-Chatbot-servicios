@@ -18,6 +18,8 @@
         "@bot-whatsapp/portal": "latest",
         "@bot-whatsapp/provider": "latest",
         "@google-cloud/dialogflow": "^5.9.0",
+        "@notionhq/client": "^2.2.9",
+        "chatgpt": "^5.2.5",
         "dialogflow": "^1.2.0",
         "wa-sticker-formatter": "4.3.2"
     },

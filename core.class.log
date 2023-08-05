@@ -1,12 +1,12 @@
 [handleMsg]:  {
   key: {
-    remoteJid: '593995409172@s.whatsapp.net',
+    remoteJid: '593983279469@s.whatsapp.net',
     fromMe: false,
-    id: '88E81ABEA2CAD64EA7D15EA76D328F51',
+    id: '70C7AD40ED4934C5EA5004B05CA1C72E',
     participant: undefined
   },
-  messageTimestamp: 1690501262,
-  pushName: 'Devmaster',
+  messageTimestamp: 1691207047,
+  pushName: '.',
   broadcast: false,
   message: Message {
     conversation: 'hola',
@@ -15,57 +15,6 @@
       deviceListMetadataVersion: 2
     }
   },
-  verifiedBizName: 'Devmaster',
   body: 'hola',
-  from: '593995409172'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '593984464879@s.whatsapp.net',
-    fromMe: false,
-    id: 'A3091F32AB417956F0275A91A9A47B3D',
-    participant: undefined
-  },
-  messageTimestamp: 1690504216,
-  pushName: 'MARY',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'Hola mijo que ases',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Hola mijo que ases',
-  from: '593984464879'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '593984464879@s.whatsapp.net',
-    fromMe: false,
-    id: 'F6FCA5C75699685F84861E41C3548109',
-    participant: undefined
-  },
-  messageTimestamp: 1690504378,
-  pushName: 'MARY',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'Porque  me sale esto',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Porque  me sale esto',
-  from: '593984464879'
+  from: '593983279469'
 }

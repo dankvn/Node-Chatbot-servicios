@@ -13,7 +13,7 @@ const MockAdapter = require("@bot-whatsapp/database/mock");
 const menuAPI = async () => {
   const config = {
     method: "get",
-    url: "https://cultivartegenetics.onrender.com/api/products",
+    url: "https://web-bot-ntpi.onrender.com/api/answers",
     headers: {
       Authorization: `Bearer ${process.env.STRAPI_API}`,
     },
@@ -23,8 +23,8 @@ const menuAPI = async () => {
 
   return data.map((m) => ({
     body: [
-      `*${m.attributes.name}*:${m.attributes.subtitle}`,
-      `*Precio:* ${m.attributes.price} UDS`,
+      `*${m.attributes.id}*`,
+      
     ].join("\n"),
   }));
 };
